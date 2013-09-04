@@ -11,7 +11,7 @@ It is not meant to be **something** for **everyone**, it’s meant to be **it** 
 
 This project is new: comments, questions and suggestions can be [tweeted to Baloo (@baloobp)](https://twitter.com/baloobp)
 
-In the following sections we will be discussing *Workflow*, *CSS structure*, *Folder structure* and some *Things you might want to add*.
+In the following sections we’ll be discussing *Workflow*, *CSS structure*, *Folder structure* and some *Things you might want to add*.
 
 ### Workflow
 
@@ -153,7 +153,7 @@ The files are structured as follows:
 
 	3. /scss
 
-		Sass files are here (see “CSS Structure” beneath)
+		Sass files are here (see “CSS Structure” above)
 
 2. /images
 
@@ -175,7 +175,7 @@ The files are structured as follows:
 More info on these is coming.
 
 - [picturefill.js](https://github.com/scottjehl/picturefill)
-	Responsive images the right way, it’s syntax lies very close to the pending W3C proposal.
+	Responsive images the right way, [it’s syntax lies very close to the pending W3C proposal](http://www.netmagazine.com/features/road-responsive-images).
 
 - [CSSComb](http://csscomb.com/)
 	Not a plugin for this boilerplate but for your code editor. Sorts your CSS properties so your code is uniform everywhere without having to worry about it. This increases it's readability and by that, it's maintainability.
